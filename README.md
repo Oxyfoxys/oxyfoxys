@@ -1,5 +1,5 @@
 ### Hi there 👋
-My roadmap:
+My roadmap:  
 Изученные технологии и фреймворки:
 - [X] Git, GitHub
 - [ ] Python
