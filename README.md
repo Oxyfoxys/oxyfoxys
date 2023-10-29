@@ -2,7 +2,7 @@
 ### My roadmap:  
 #### Изученные технологии и фреймворки:
 - [X] Git, GitHub
-- [ ] Python
+- [ ] Python course [Начинаем программировать на Python. 5-е изд | Тони Гэддис](https://github.com/Oxyfoxys/python-book-5th)
 
 #### Изученные инструменты:
 - [X] PyCharm
